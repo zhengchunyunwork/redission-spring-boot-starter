@@ -1,0 +1,55 @@
+# Compiled class file
+*.class
+*.iml
+*.idea
+target/
+logs/
+
+
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+# Eclipse #
+.classpath
+.project
+.settings/
+
+
+.DS_Store
+
+_dockerCerts/
+
+transaction-logs/
+
+*.none
+
+
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+
+.project
+.classpath
+.settings/
+target/
+temp/
+tem/
+work/
+logs/
+
+
+
+/.metadata
+**/rebel.xml
